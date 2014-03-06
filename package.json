@@ -1,0 +1,11 @@
+{
+  "name": "assign-align",
+  "version": "0.0.0",
+  "main": "./lib/assign-align",
+  "description": "Align those assignments",
+  "repository": "https://github.com/leejarvis/assign-align",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  }
+}
